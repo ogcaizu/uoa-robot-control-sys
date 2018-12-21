@@ -1,0 +1,7 @@
+インストール手順
+１. catkin_ws/srcの中に、srcの中身をすべてコピーする。
+2. catkin_ws/　内で chmod -R 777 src　を実行する。
+3. sudo apt install ros-kinetic-kobuki-ftdiをインストールする。
+4. catkin_ws/ で　catkin_make_isolatedを実行する。
+5. bashrc に　source ~/ros/devel_isolated/setup.bash　を追記
+5. プログラムが動かない場合は　rosrun kobuki_ftdi create_udev_rules を実行する。

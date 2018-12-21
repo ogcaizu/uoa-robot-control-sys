@@ -1,0 +1,7 @@
+-1,1 test_course_1 Nouth 4.8 West 3.6 South 4.8 East 3.6
+1,1 test_cource_2 West 3.6 Nouth 4.8 East 3.6 South 4.8
+3,3 test_cource_3 Nouth 15.325
+-10.42,7.486 conference_room_1 Nouth 0.98 West 7.486 South 11.4
+-9.37,7.486 conference_room_2 Nouth 0.98 West 7.486 South 10.35
+-5.92,7.486 conference_room_3 Nouth 0.98 West 7.486 South 6.9
+

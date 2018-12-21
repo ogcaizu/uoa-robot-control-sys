@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="navigation_robot" type="navigation_robot_node" name="robot_2f_1">
+    </node>
+</launch>

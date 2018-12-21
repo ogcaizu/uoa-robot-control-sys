@@ -1,0 +1,9 @@
+<launch>
+    <node pkg="measure_robot1_position" type="measure_robot1_position" name="QR_1f_1">
+    <remap from="/QR_1f_1/measure_robot1_position" to="/robot_1f_1/Position" />
+    </node>
+    
+    <node pkg="navigation_robot" type="navigation_robot_node" name="robot_1f_1" output="screen">
+    </node>
+
+</launch>

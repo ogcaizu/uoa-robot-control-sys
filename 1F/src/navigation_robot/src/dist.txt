@@ -1,0 +1,9 @@
+-12.388,7.51 White_board_room Nouth 0.98 West 7.51 South 13.368
+-10.68,7.51 Conference_room_1 Nouth 0.98 West 7.51 South 11.66 
+-9.58,7.51 Conference_room_2 Nouth 0.98 West 7.51 South 10.56
+-6.41,7.51 Conference_room_3 Nouth 0.98 West 7.51 South 6.9
+18.72,0 Project_room_1 Nouth 18.72
+15.325,0 Project_room_2 Nouth 15.325
+11.642,0 Project_room_3 Nouth 11.642
+8.432,0 Project_room_4 Nouth 8.432
+1,0 test_course Nouth 1

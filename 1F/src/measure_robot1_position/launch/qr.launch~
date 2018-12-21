@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="measure_robot1_position" type="measure_robot1_position" name="QR_1f_1">
+    <remap from="/QR_1f_1/measure_robot1_position" to="/robot1f_1/QR_pos" />
+    </node>
+</launch>

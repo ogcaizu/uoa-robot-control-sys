@@ -1,0 +1,24 @@
+<package>
+  <name>service_robot</name>
+  <version>0.6.5</version>
+  <description>
+    Non-ROS software for Kobuki, Yujin Robot's mobile research base.
+  </description>
+  <author email="stonier@yujinrobot.com">Daniel Stonier</author>
+  <author email="yhju@yujinrobot.com">Younghun Ju</author>
+  <author email="jorge@yujinrobot.com">Jorge Santos Simon</author>
+  <author email="marcus.liebhardt@yujinrobot.com">Marcus Liebhardt</author>
+  <maintainer email="stonier@yujinrobot.com">Daniel Stonier</maintainer>
+  <license>BSD</license>
+  <url type="bugtracker">https://github.com/yujinrobot/kobuki_core/issues</url>
+  <url type="repository">https://github.com/yujinrobot/kobuki_core</url>
+  <url type="website">http://ros.org/wiki/kobuki_core</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>measure_robot1_position</run_depend> 
+  <run_depend>navigation_robot</run_depend>
+
+  <export>
+  </export>
+</package>
